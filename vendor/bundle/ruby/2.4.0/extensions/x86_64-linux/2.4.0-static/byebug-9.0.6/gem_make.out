@@ -1,0 +1,5 @@
+current directory: /home/vagrant/workspace/vocalearning/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+/home/vagrant/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20170423-16945-fv4zye.rb extconf.rb
+creating Makefile
+
+Text file busy @ unlink_internal - ./siteconf20170423-16945-fv4zye.rb

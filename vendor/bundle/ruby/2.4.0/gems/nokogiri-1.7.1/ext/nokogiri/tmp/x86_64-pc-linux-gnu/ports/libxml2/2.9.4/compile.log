@@ -1,0 +1,11 @@
+CDPATH="${ZSH_VERSION+.}:" && cd . && /bin/sh /home/vagrant/workspace/vocalearning/vendor/bundle/ruby/2.4.0/gems/nokogiri-1.7.1/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.4/libxml2-2.9.4/missing autoconf
+/home/vagrant/workspace/vocalearning/vendor/bundle/ruby/2.4.0/gems/nokogiri-1.7.1/ext/nokogiri/tmp/x86_64-pc-linux-gnu/ports/libxml2/2.9.4/libxml2-2.9.4/missing: 行 81: autoconf: コマンドが見つかりません
+WARNING: 'autoconf' is missing on your system.
+         You should only need it if you modified 'configure.ac',
+         or m4 files included by it.
+         The 'autoconf' program is part of the GNU Autoconf package:
+         <http://www.gnu.org/software/autoconf/>
+         It also requires GNU m4 and Perl in order to run:
+         <http://www.gnu.org/software/m4/>
+         <http://www.perl.org/>
+make: *** [configure] エラー 127

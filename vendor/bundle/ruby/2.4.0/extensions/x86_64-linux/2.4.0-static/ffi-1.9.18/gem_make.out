@@ -1,0 +1,13 @@
+current directory: /home/vagrant/workspace/vocalearning/vendor/bundle/ruby/2.4.0/gems/ffi-1.9.18/ext/ffi_c
+/home/vagrant/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20170423-16945-1nd7r89.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+checking for ffi_prep_cif_var()... no
+creating extconf.h
+creating Makefile
+
+Text file busy @ unlink_internal - ./siteconf20170423-16945-1nd7r89.rb

@@ -1,0 +1,12 @@
+current directory: /home/vagrant/workspace/vocalearning/vendor/bundle/ruby/2.4.0/gems/nio4r-2.0.0/ext/nio4r
+/home/vagrant/.rbenv/versions/2.4.1/bin/ruby -r ./siteconf20170423-16945-b04epk.rb extconf.rb
+checking for unistd.h... yes
+checking for sys/select.h... yes
+checking for poll.h... yes
+checking for sys/epoll.h... yes
+checking for sys/event.h... no
+checking for port.h... no
+checking for sys/resource.h... yes
+creating Makefile
+
+Text file busy @ unlink_internal - ./siteconf20170423-16945-b04epk.rb
